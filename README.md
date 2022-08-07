@@ -1,0 +1,2 @@
+ before :
+     maven install
